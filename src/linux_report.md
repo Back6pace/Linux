@@ -70,4 +70,7 @@ DHCP - Dynamic Host Configuration Protocol, сетевой протокол, п�
 
 ![img3.6.png](img%2Fimg3.6.png)
 
+## Part 4
+![img4.png](img%2Fimg4.png)
+
 
