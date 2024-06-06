@@ -98,3 +98,26 @@ Sudo – это утилита для операционных систем се
 
 "sudo systemctl status systemd-timesyncd"
  Убедитесь, что служба работает без ошибок.
+
+  ## Part 7
+![img7vim.png](img%2Fimg7vim.png)
+
+- Чтобы выйти из vim сохраняя изменения, нужно нажать клавиши Esc, затем :wq и Enter.
+
+![img7.1nano.png](img%2Fimg7.1nano.png)
+
+- Чтобы выйти из nano сохраняя изменения, нужно нажать клавиши Ctrl+X, затем Y и Enter.
+
+![img7.2joe.png](img%2Fimg7.2joe.png)
+
+- Чтобы выйти из Joe сохраняя изменения, нужно нажать клавиши Ctrl+K, затем X и Enter.
+
+![img7vim1.png](img%2Fimg7vim1.png)
+- Чтобы выйти из vim не сохраняя изменения нужно нажать клавиши Esc, затем :q! и Enter.
+
+![img7nano1.png](img%2Fimg7nano1.png)
+- Чтобы выйти из nano не сохраняя изменения нужно нажать клавиши Ctrl+X, затем N и Enter.
+
+![img7joe1.png](img%2Fimg7joe1.png)
+- Чтобы выйти из Joe не сохраняя изменения нужно нажать клавиши Ctrl+K, затем Q и выбрать n и Enter.
+
