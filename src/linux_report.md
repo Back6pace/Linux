@@ -11,16 +11,16 @@
 ![img2.png](img%2Fimg2.png)
 ![img2.1.png](img%2Fimg2.1.png)
 
-Добавляем пользователя TestAdmUser
-- "sudo useradd TestAdmUser"
+Добавляем пользователя testuser
+- "sudo useradd testuser"
 
 Добавляем в группу
-- "sudo usermod -aG adm TestAdmUser"
+- "sudo usermod -aG adm testuser"
 
 
 Проверяем добавление:
 - "cat /etc/passwd"
-- "groups newuser"
+- "groups testuser"
 
 ## Part 3
 ### Part 3.1 Part 3.2
@@ -73,4 +73,14 @@ DHCP - Dynamic Host Configuration Protocol, сетевой протокол, п�
 ## Part 4
 ![img4.png](img%2Fimg4.png)
 
+## Part 5
+
+Sudo – это утилита для операционных систем семейства Linux, позволяющая пользователю запускать программы с привилегиями другой учётной записи, как правило, суперпользователя.
+
+![img5.png](img%2Fimg5.png)
+
+- "su testuser" переключение на пользователя
+- "sudo usermod -aG sudo testuser" добавление в группу sudo tester'a
+
+![img5.1.png](img%2Fimg5.1.png)
 
