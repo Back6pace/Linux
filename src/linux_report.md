@@ -12,7 +12,7 @@
 ![img2.1.png](img%2Fimg2.1.png)
 
 Добавляем пользователя testuser
-- "sudo useradd testuser"
+- "sudo useradd testuser -d /home/user -m -G adm -s /bin/bash"
 
 Добавляем в группу
 - "sudo usermod -aG adm testuser"
@@ -84,3 +84,17 @@ Sudo – это утилита для операционных систем се
 
 ![img5.1.png](img%2Fimg5.1.png)
 
+## Part 6
+![img6.png](img%2Fimg6.png)
+
+- sudo apt install systemd-timesyncd
+
+- "sudo systemctl start systemd-timesyncd"
+- "sudo systemctl enable systemd-timesyncd"
+
+Запуск службы и её автоматический запуск при каждом старте системы
+
+![img6.1.png](img%2Fimg6.1.png)
+
+"sudo systemctl status systemd-timesyncd"
+ Убедитесь, что служба работает без ошибок.
