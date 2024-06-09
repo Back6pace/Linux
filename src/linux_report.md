@@ -319,3 +319,11 @@ FN+F6-открыть поле сортировки
 - ``Перезапуск OpenSSH Server``<br>
 
 ![ressshd.png](img%2Fressshd.png)
+
+## Part 15
+- ``crontab -e``<br>
+![crone.png](img%2Fcrone.png)
+- ``grep CRON /var/log/syslog``<br>
+![cron.png](img%2Fcron.png)
+ - ``crontab -r``<br>
+![crondel.png](img%2Fcrondel.png)
