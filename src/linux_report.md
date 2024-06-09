@@ -266,3 +266,30 @@ FN+F6-открыть поле сортировки
 
 ![dfth.png](img%2Fdfth.png)
 
+## Part 12
+- ``du``
+
+![du.png](img%2Fdu.png)
+
+ - ``du -h``
+
+ Чтобы вывод не был большим из-за установленного vscode server для работы с виртуалкой через vscode
+
+![duh.png](img%2Fduh.png)
+
+ - ``du /home -h``
+
+![duhome.png](img%2Fduhome.png)
+
+ - ``du /var -h``
+
+![duvar.png](img%2Fduvar.png)
+
+ - ``sudo du /var/log -h``
+
+![duvarlog.png](img%2Fduvarlog.png)
+
+ - ``sudo du /var/log/* -h``
+
+![duvar*.png](img%2Fduvar*.png)
+
