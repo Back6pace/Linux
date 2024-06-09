@@ -310,3 +310,12 @@ FN+F6-открыть поле сортировки
  - ``ncdu /var/log``
 
 ![ncduvarlog.png](img%2Fncduvarlog.png) 
+
+## Part 14
+- ``Последняя авторизация``<br>
+
+![login.png](img%2Flogin.png)
+
+- ``Перезапуск OpenSSH Server``<br>
+
+![ressshd.png](img%2Fressshd.png)
