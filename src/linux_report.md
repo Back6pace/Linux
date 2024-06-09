@@ -293,3 +293,20 @@ FN+F6-открыть поле сортировки
 
 ![duvar*.png](img%2Fduvar*.png)
 
+## Part 13
+
+  - ``ncdu ``
+
+![ncdu.png](img%2Fncdu.png)
+
+  - ``ncdu /home``
+
+![ncduhome.png](img%2Fncduhome.png)
+
+  - ``ncdu /var``
+
+![ncduvar.png](img%2Fncduvar.png)
+
+ - ``ncdu /var/log``
+
+![ncduvarlog.png](img%2Fncduvarlog.png) 
