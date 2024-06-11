@@ -11,12 +11,8 @@
 ![img2.png](img%2Fimg2.png)
 ![img2.1.png](img%2Fimg2.1.png)
 
-Добавляем пользователя testuser
+Добавляем пользователя testuser и добавляем его в группу adm
 - "sudo useradd testuser -d /home/user -m -G adm -s /bin/bash"
-
-Добавляем в группу
-- "sudo usermod -aG adm testuser"
-
 
 Проверяем добавление:
 - "cat /etc/passwd"
